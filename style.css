@@ -4,13 +4,13 @@ body{
 h1{
     color: black;
     text-align: center;
-    font-size: larger;
+    font-size: 100%;
 
 }
 p{
     color: goldenrod;
     text-align: center;
-    font-size: 40%;
+    font-size: 100%;
 }
 #image{
     width: 100%;
