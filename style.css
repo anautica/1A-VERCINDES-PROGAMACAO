@@ -19,7 +19,10 @@ p{
 }
 .itens{
     font-style: italic;
+    font-size: 25px;
+    text-align: left;
 }
 .beneficios{
     background-color: aliceblue;
+    font-size: 25px;
 }
