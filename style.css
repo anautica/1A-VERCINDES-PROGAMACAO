@@ -26,3 +26,11 @@ p{
     background-color: aliceblue;
     font-size: 25px;
 }
+
+ul{
+    display:inline-block;
+    vertical-align:top;
+    margin: 3%;
+    list-style: circle;
+}
+    
